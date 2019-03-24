@@ -1,0 +1,2 @@
+GROUP BY句で選択されていないshouhin_idは列選択できない
+WHERE句はGROUP BY句の前
